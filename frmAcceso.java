@@ -7,7 +7,7 @@ package sistema.empleadosGUI;
 
 /**
  *
- * @author XDAVIXD
+ * @author  Eduardo
  */
 public class frmAcceso extends javax.swing.JFrame {
 
