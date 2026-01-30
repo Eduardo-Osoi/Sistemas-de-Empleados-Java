@@ -14,7 +14,7 @@ import sistema.empleadosDAL.conexion;
 
 /**
  *
- * @author XDAVIXD
+ * @author Eduardo 
  */
 public class frmMaterias extends javax.swing.JFrame {
     DefaultTableModel model;
