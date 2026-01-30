@@ -7,7 +7,7 @@ package sistema.empleadosGUI;
 
 /**
  *
- * @author XDAVIXD
+ * @author Eduardo
  */
 public class ERROR extends javax.swing.JFrame {
 
